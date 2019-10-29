@@ -1,3 +1,5 @@
+Fun application to keep track of your Exercises. I will be refactoring this with React Hooks soon.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
